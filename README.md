@@ -82,6 +82,3 @@ Enter the customer's details in the Gradio interface, click **Predict**, and get
 
 ---
 
-## 🖼️ Sample Output
-
-<img width="1229" alt="Sample output" src="YOUR_SCREENSHOT_LINK_HERE" />
